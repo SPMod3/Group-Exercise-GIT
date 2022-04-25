@@ -17,3 +17,4 @@ Gruppe
 mache
 ich 
 alles!
+@Phillip: Gruppenübung
